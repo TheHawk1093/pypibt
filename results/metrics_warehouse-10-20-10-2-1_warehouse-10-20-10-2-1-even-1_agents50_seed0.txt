@@ -1,0 +1,18 @@
+PIBT EXECUTION RESULTS
+======================================================================
+
+CONFIGURATION:
+  Map File:         assets/warehouse-10-20-10-2-1.map
+  Scenario File:    assets/warehouse-10-20-10-2-1-even-1.scen
+  Number of Agents: 50
+  Random Seed:      0
+  Execution Time:   2025-10-19 14:21:39
+
+SOLUTION METRICS:
+  Status:                SUCCESS
+  Makespan:              194
+  Sum of Costs:          5919
+  Average Path Length:   118.38
+  Total Timesteps:       195
+  Computation Time:      1.1544 seconds
+  Time per Agent:        0.023088 seconds
